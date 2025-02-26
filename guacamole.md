@@ -5,4 +5,4 @@
 * salt
 ## Instructions
 * Peel the avocados
-* Owner adds a line here.
+* Cut the avocados
